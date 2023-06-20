@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngine-release/Iwannabe/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UnrealEngine-release/Iwannabe/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealEngine-release/Iwannabe/Content/BP_TEST.uasset",
+				"D:/UnrealEngine-release/Iwannabe/Content/Levels/AI_Test.umap",
+				"D:/UnrealEngine-release/Iwannabe/Content/Blueprints/BP_Agent.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealEngine-release\\Iwannabe\\Source\\Iwannabe\\Iwannabe.Build.cs",
+		"D:\\UnrealEngine-release\\Iwannabe\\Source\\Iwannabe.Target.cs",
+		"D:\\UnrealEngine-release\\Iwannabe\\Source\\IwannabeEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

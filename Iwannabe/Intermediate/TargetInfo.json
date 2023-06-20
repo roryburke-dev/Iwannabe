@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Iwannabe",
+			"Path": "D:\\UnrealEngine-release\\Iwannabe\\Source\\Iwannabe.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "IwannabeEditor",
+			"Path": "D:\\UnrealEngine-release\\Iwannabe\\Source\\IwannabeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

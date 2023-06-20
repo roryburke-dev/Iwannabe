@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealengine-release\\iwannabe\\intermediate\\build\\win64\\unrealeditor\\inc\\iwannabe\\uht\\precondition.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengine-release\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealengine-release\\iwannabe\\intermediate\\build\\win64\\unrealeditor\\development\\iwannabe\\definitions.iwannabe.h",
+            "d:\\unrealengine-release\\iwannabe\\source\\iwannabe\\precondition.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
